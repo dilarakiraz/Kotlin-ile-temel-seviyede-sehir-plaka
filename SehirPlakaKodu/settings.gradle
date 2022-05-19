@@ -1,0 +1,2 @@
+rootProject.name = "SehirPlakaKodu"
+include ':app'
